@@ -1,0 +1,13 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {
+    "key": "ctrl+0",
+    "command": "workbench.action.focusSideBar",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+0",
+    "command": "workbench.files.action.showActiveFileInExplorer",
+    "when": "!editorTextFocus"
+  }
+]

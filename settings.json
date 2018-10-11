@@ -1,0 +1,23 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "workbench.editor.enablePreview": false,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "node_modules": true
+  },
+  "beautify.tabSize": 2,
+  "editor.renderControlCharacters": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.autoReveal": false,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\cmd.exe",
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
